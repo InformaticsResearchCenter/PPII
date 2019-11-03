@@ -1,2 +1,2 @@
-# PPK
-Panduan Peningkatan Kompetensi
+# PPKAR
+Panduan Peningkatan Kompetensi Asisten Riset
