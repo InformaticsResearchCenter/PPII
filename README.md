@@ -1,2 +1,2 @@
 # PPII
-Panduan Program Integritas Informatika
+Program Pendidikan Integritas Informatika
