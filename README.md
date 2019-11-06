@@ -1,2 +1,2 @@
-# PPKAR
-Panduan Peningkatan Kompetensi Asisten Riset
+# PPII
+Panduan Program Integritas Informatika
